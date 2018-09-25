@@ -17,7 +17,7 @@ def tabuleiro():
     
 def main():
     inicializar()
-    jogar('X', 1, 1)
+    jogar('X', 2, 2)
     print(tabuleiro())
 if __name__ == "__main__":  
     main()
