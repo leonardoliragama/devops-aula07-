@@ -1,3 +1,4 @@
+
 # Arquitetura
 ## Inicialização do tabuleiro
 * As funções relacionadas ao gerenciamento das casas do jogo da velha
