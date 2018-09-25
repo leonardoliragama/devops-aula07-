@@ -2,8 +2,8 @@
 import jogovelha
 import sys
 erro = False
-lin = 1
-col = 1
+lin = 2
+col = 2
 jogador = 'X'
 jogovelha.inicializar()
 jogovelha.jogar(jogador, lin, col)
