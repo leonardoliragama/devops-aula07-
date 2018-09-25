@@ -1,3 +1,4 @@
+
 # Requisitos
 ## Estados e inicialização do tabuleiro
 * O sistema deverá manter o estado de cada uma das
